@@ -1,0 +1,27 @@
+{
+  "name": "jsga",
+  "description": "A genetic algorithm implementation written in JavaScript.",
+  "main": "jsga.js",
+  "authors": [
+    "Cory McCartan"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "genetic",
+    "algorithm",
+    "evolutionary"
+  ],
+  "homepage": "https://github.com/CoryMcCartan/genetic",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test.js",
+    "test",
+    "tests"
+  ]
+}

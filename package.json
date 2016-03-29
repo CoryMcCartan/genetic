@@ -1,0 +1,31 @@
+{
+  "name": "jsga",
+  "version": "1.0.0",
+  "description": "A genetic algorithm implementation written in JavaScript.",
+  "main": "jsga.js",
+  "dependencies": {
+    "genetic": "^0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoryMcCartan/genetic.git"
+  },
+  "keywords": [
+    "genetic",
+    "algorithm",
+    "evolutionary"
+  ],
+  "author": "Cory McCartan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CoryMcCartan/genetic/issues"
+  },
+  "homepage": "https://github.com/CoryMcCartan/genetic#readme",
+  "files": [
+      "jsga.js"
+  ]
+}
