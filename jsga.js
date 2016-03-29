@@ -60,7 +60,7 @@
             }
             
             // for every generation
-            for (let i = 0; i < generations; i++) {
+            for (let i = 0; i !== generations; i++) {
                 reproduce();
                 select();
 
